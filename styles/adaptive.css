@@ -1,4 +1,10 @@
 @media only screen and (max-width: 412px){
+    .col-3{
+        flex: 50% 0;
+    }
+    .programs_apps div {
+        margin-bottom: 15px;
+    }
     .burger{
         display: block;
     }
@@ -8,7 +14,7 @@
         top: 0;
         left: 0;
         right: 0;
-        height: 100vh;
+        bottom: 0;
         display: none;
     }
     .header__list.active{
@@ -27,7 +33,7 @@
         font-size: 40px;
 
     }
-    .first{
+    .first, .all__photo > img{
         max-width: 412px;
     }
     .portfolio__text{

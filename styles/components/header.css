@@ -29,6 +29,7 @@
     background: #FFFFFF;
     margin-bottom: 4px;
     display: block;
+    transition: 0.3s;
 }
 .burger__item:last-child{
     margin-bottom: 0;
