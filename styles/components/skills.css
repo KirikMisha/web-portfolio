@@ -1,0 +1,32 @@
+.skills {
+    padding: 91px 0 69px;
+    text-align: center;
+}
+.skills__title{
+    font-size: 34px;
+    line-height: 42px;
+}
+.skills__subtitle{
+    margin-top: 69px;
+    font-size: 18px;
+    line-height: 22px;
+}
+.programs_apps{
+    margin-top: 82px;
+    justify-content: space-between;
+}
+.text_Photoshop{
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 24px;
+    color: #828282;
+}
+
+.skills_stars{
+    margin-top: 40px;
+}
+@media screen and (max-width: 400px) {
+    .skills_stars img{
+        max-width: 15px;
+    }
+}

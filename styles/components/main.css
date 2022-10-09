@@ -1,0 +1,14 @@
+.main__name{
+    max-width: 124px;
+    margin-top: 40px;
+}
+.main__jobs{
+    max-width: 155px;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    margin-top: 75px;
+}
+.main__wrapper{
+    margin-bottom: 30px;
+}

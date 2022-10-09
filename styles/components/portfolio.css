@@ -1,0 +1,30 @@
+.all__photo{
+    display: block;
+    text-align: center;
+    font-style: italic;
+}
+.all_text{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+.portfolio{
+
+}
+.portfolio__text{
+    color: #070707;
+    margin-top: 223px;
+}
+.photo_new_collection{
+    margin-top: 47px;
+}
+.photo_reebok{
+    margin-top: 99px;
+}
+.under__photo{
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    margin-top: 45px;
+}

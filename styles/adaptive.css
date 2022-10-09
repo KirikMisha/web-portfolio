@@ -1,0 +1,36 @@
+@media only screen and (max-width: 412px){
+    .burger{
+        display: block;
+    }
+    .header__list{
+        position: fixed;
+        z-index: 20;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 100vh;
+        display: none;
+    }
+    .header__list.active{
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+        background: black;
+    }
+    .header__list.active .header__item{
+        margin-bottom: 50px;
+    }
+
+    .header__list.active .header__link{
+        color: #FFFFFF;
+        font-size: 40px;
+
+    }
+    .first{
+        max-width: 412px;
+    }
+    .portfolio__text{
+        margin-top: 50px;
+    }
+}

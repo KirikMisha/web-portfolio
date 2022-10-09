@@ -1,0 +1,30 @@
+.container{
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-3{
+    flex: 25% 0;
+}
+.col-4{
+    flex: 33.33% 0;
+}
+.col-5{
+    flex: 41.67% 0;
+}
+.col-7{
+    flex: 58.33% 0;
+}
+.title{
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+}

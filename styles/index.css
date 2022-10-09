@@ -1,0 +1,10 @@
+@import '../assets/fonts/fonts.css';
+@import "./base.css";
+@import './classes.css';
+@import "./components/header.css";
+@import "./components/main.css";
+@import './components/about.css';
+@import './components/skills.css';
+@import './components/portfolio.css';
+@import './components/contacts.css';
+@import './adaptive.css';

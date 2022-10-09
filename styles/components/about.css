@@ -1,0 +1,17 @@
+.about{
+    background: #F6F6F6;
+    padding: 120px 0 107px;
+    margin-top: 104px;
+}
+.about__wrapper{
+    max-width: 485px;
+}
+.about__title,.about__text{
+    margin-bottom: 20px;
+}
+
+.about__text{
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
